@@ -1,0 +1,47 @@
+{
+  "incomplete": [
+    {
+      "id": 1,
+      "itemName": "Dishes",
+      "description": "Kinda self-explanetory.",
+      "due": "09/22/2019"
+    },
+    {
+      "id": 2,
+      "itemName": "Groceries",
+      "description": "Eggs; Milk; Butter; Vanilla Extract; Parmesan; Sausage; Marinara Sauce",
+      "due": "09/25/2019"
+    },
+    {
+      "id": 3,
+      "itemName": "World Domination",
+      "description": "Step 1: Take over world; Step 2: ???; Step 3: Profit"
+    },
+    {
+      "id": 4,
+      "itemName": "Cleaning",
+      "description": "This month, focusing on the bathrooms.",
+      "due": "10/01/2019"
+    }
+  ],
+  "complete": [
+    {
+      "id": 1,
+      "itemName": "Laundry",
+      "description": "Do the lights."
+    },
+    {
+      "id": 2,
+      "itemName": "Laundry",
+      "description": "Do the darks."
+    },
+    {
+      "id": 3,
+      "itemName": "Study",
+      "description": "Physics Exam Thursday... bleh :<"
+    }
+  ],
+  "profile": {
+    "name": "Edwin-Barron-TCS"
+  }
+}
