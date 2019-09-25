@@ -28,12 +28,12 @@
     {
       "id": 1,
       "itemName": "Laundry",
-      "description": "Do the lights."
+      "description": "Wash the lights."
     },
     {
       "id": 2,
       "itemName": "Laundry",
-      "description": "Do the darks."
+      "description": "Wash the darks."
     },
     {
       "id": 3,
